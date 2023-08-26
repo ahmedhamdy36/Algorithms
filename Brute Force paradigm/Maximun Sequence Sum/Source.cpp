@@ -1,3 +1,11 @@
+//-- Problem description --//
+// 
+// Given:     array of N numbers
+// Required:  find a sequence of contiguous numbers with max
+// Case:      { 31, -41, 59, 26, -53, 58, 97, -93, -23, 84 }: 
+// Soloution: { 59, 26, -53, 58, 97 }
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -7,7 +15,6 @@ vector<int> findMaxSumSubarray(const vector<int>& arr) {
     int startIndex = 0;
     int endIndex = 0;
 
-    // Iterate through all possible subarrays
     for (int i = 0; i < arr.size(); ++i) {
         int currentSum = 0;
         for (int j = i; j < arr.size(); ++j) {

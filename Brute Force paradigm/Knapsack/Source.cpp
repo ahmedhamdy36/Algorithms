@@ -1,3 +1,19 @@
+//-- Problem description --//
+//
+// There are N different items in a store.
+// Each item has only one instance.
+// The item i weighs wi pounds and is worth $vi.
+// A thief breaks in.
+// He can carry up to W pounds in his knapsack.
+// What should he take to maximize his benefit ?
+// Case:     [(item1: 7 lbs, $42),
+//            (item2: 3 lbs, $12),
+//            (item3: 4 lbs, $40),
+//            (item4: 5 lbs, $25),
+//            (bag W = 10) ]
+// Soloution: (item3 & item4 = $65)
+
+
 #include<iostream>
 using namespace std;
 
