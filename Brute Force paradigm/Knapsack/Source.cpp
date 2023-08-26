@@ -1,5 +1,4 @@
 #include<iostream>
-#include<vector>
 using namespace std;
 
 int SelectItems(int w, int* sizes, int* profit, int n)
