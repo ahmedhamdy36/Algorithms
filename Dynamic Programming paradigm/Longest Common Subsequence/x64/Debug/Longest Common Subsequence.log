@@ -1,0 +1,4 @@
+﻿  Source.cpp
+G:\courses\Algorithms\implementation (C++)\Dynamic Programming paradigm\Longest Common Subsequence\Source.cpp(21,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\courses\Algorithms\implementation (C++)\Dynamic Programming paradigm\Longest Common Subsequence\Source.cpp(22,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Longest Common Subsequence.vcxproj -> G:\courses\Algorithms\implementation (C++)\Dynamic Programming paradigm\Longest Common Subsequence\x64\Debug\Longest Common Subsequence.exe
