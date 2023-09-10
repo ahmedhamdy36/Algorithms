@@ -1,0 +1,5 @@
+﻿  Source.cpp
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Travelling Salesman\Source.cpp(16,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Travelling Salesman\Source.cpp(29,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Travelling Salesman\Source.cpp(44,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Travelling Salesman.vcxproj -> G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Travelling Salesman\x64\Debug\Travelling Salesman.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Bin Packing\Source.cpp(15,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Bin Packing\Source.cpp(34,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Bin Packing\Source.cpp(40,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Bin Packing\Source.cpp(57,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bin Packing.vcxproj -> G:\courses\Algorithms\implementation (C++)\Iterative Improvement paradigm\Bin Packing\x64\Debug\Bin Packing.exe
